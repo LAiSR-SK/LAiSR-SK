@@ -1,5 +1,5 @@
 <div class="laisr-description">
-  <h2><a href="https://miamioh.edu/profiles/cec/samer-khamaiseh.html">Dr. Samer Khamaiseh's Research Lab at Miami University</h2>
+  <h2><a href="https://miamioh.edu/profiles/cec/samer-khamaiseh.html">AI security Research Lab at Miami University</h2>
   <p><b>The LAiSR is a dynamic research group at Miami University, Ohio, led by the visionary Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security</b>.</p>
 
   <h3>Our Mission</h3>

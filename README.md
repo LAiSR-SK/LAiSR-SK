@@ -22,4 +22,4 @@
 </div>
 
 - 🔭 LAiSR currently working on AI security issues 
-- 📫 How to reach me: https://miamioh.edu/profiles/cec/samer-khamaiseh.html 
+- 📫 How to reach LaiSR: https://miamioh.edu/profiles/cec/samer-khamaiseh.html 

@@ -21,8 +21,5 @@
   <p>This GitHub repository serves as a hub for our ongoing projects, publications, and collaborations. We welcome your engagement and encourage you to explore the exciting frontiers of AI security with us!</p>
 </div>
 
-- 🔭 I’m currently working on AI security issues 
+- 🔭 LAiSR currently working on AI security issues 
 - 📫 How to reach me: https://miamioh.edu/profiles/cec/samer-khamaiseh.html 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LAiSR-SK)

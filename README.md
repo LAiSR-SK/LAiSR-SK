@@ -20,39 +20,3 @@
 
   <p>This GitHub repository serves as a hub for our ongoing projects, publications, and collaborations. We welcome your engagement and encourage you to explore the exciting frontiers of AI security with us!</p>
 </div>
-
-<style>
-  .laisr-description {
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    line-height: 1.5;
-  }
-
-  h1 {
-    font-size: 2em;
-    margin-bottom: 10px;
-  }
-
-  h2 {
-    font-size: 1.5em;
-    margin-bottom: 15px;
-  }
-
-  h3 {
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  b {
-    font-weight: bold;
-  }
-
-  ul {
-    list-style: disc;
-    padding-left: 20px;
-  }
-
-  li {
-    margin-bottom: 5px;
-  }
-</style>

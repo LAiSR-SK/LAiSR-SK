@@ -20,7 +20,7 @@
 </div>
 
 - 🔭 LAiSR currently working on AI security issues 
-- 📫 How to reach LaiSR: https://miamioh.edu/profiles/cec/samer-khamaiseh.html
+- 📫 How to reach LAiSR: https://miamioh.edu/profiles/cec/samer-khamaiseh.html
 # Tech stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
